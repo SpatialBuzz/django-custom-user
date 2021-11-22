@@ -20,7 +20,7 @@ readme = open('README.rst').read()
 
 setup(
     name='django-custom-user',
-    version='0.7',
+    version='0.8',
     description="""Custom user model for Django >= 1.5 with the same behaviour as Django's default User but with email instead of username.""",
     long_description=readme,
     author='Josep Cugat',
