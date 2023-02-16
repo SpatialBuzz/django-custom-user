@@ -25,7 +25,7 @@ setup(
     long_description=readme,
     author='Josep Cugat',
     author_email='jcugat@gmail.com',
-    url='https://github.com/jcugat/django-custom-user',
+    url='https://github.com/SpatialBuzz/django-custom-user',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     include_package_data=True,
